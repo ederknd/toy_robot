@@ -1,0 +1,9 @@
+PLACE 3,ASDFASD,EAST
+LEFT
+LEFT
+MOVE
+RIGHT
+REPORT
+
+Expected output:
+

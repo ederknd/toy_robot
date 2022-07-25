@@ -1,0 +1,8 @@
+PLACE 50,50,EAST
+LEFT
+LEFT
+MOVE
+RIGHT
+REPORT
+
+Expected output:

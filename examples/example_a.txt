@@ -1,0 +1,8 @@
+PLACE 0,0,SOUTH
+MOVE
+REPORT
+
+
+Expected output:
+
+0,1,SOUTH

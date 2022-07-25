@@ -1,0 +1,7 @@
+Para executar o projeto basta rodar:
+  ruby execute.rb -f FILE_PATH
+
+  ex: ruby execute.rb -f examples/example_a.txt
+
+onde FILE_PATH é o path do arquivo, coloquei todos os arquivos de exemplo na pasta
+examples.

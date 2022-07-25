@@ -1,0 +1,10 @@
+PLACE 5,5,EAST
+MOVE
+LEFT
+MOVE
+MOVE
+REPORT
+
+Expected output:
+
+5,3,NORTH

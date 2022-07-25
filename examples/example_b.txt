@@ -1,0 +1,8 @@
+PLACE 0,0,SOUTH
+LEFT
+REPORT
+
+
+Expected output:
+
+0,0,EAST
